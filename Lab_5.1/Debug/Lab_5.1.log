@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Користувач\source\repos\Lab_5.1\Lab_5.1\Source.cpp(16,8): error C2084: function 'double h(const double,const double,const double)' already has a body
+C:\Users\Користувач\source\repos\Lab_5.1\Lab_5.1\Source.cpp(5): message : see previous definition of 'h'
